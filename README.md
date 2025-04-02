@@ -1,4 +1,4 @@
-# just-the-docs-template
+# A Survey of Asian Art at American Museums
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
